@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_tv_show/static/css/main.11296183.css",
+    "main.js": "/React_tv_show/static/js/main.439e7c78.js",
+    "index.html": "/React_tv_show/index.html",
+    "main.11296183.css.map": "/React_tv_show/static/css/main.11296183.css.map",
+    "main.439e7c78.js.map": "/React_tv_show/static/js/main.439e7c78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11296183.css",
+    "static/js/main.439e7c78.js"
+  ]
+}
